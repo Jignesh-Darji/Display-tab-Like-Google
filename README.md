@@ -1,5 +1,5 @@
-# Display tab Like a Google
-Display tab Like a Google
+# Display tabs Like a Google
+Display tabs Like a Google
 
 Google Tabs
 ![alt text](https://raw.githubusercontent.com/Jignesh-Darji/Display-tab-Like-Google/master/Display%20tab%20like%20a%20Google.png)
